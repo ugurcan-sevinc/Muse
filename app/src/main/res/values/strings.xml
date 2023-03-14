@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Muse</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Context Description Texts -->
+    <string name="condes_notification">Notification Toggle</string>
+    <string name="condes_profile_icon">Profile Icon</string>
+</resources>

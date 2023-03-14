@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/muse_nav"
+    app:startDestination="@id/taskPageFragment">
+
+    <fragment
+        android:id="@+id/taskPageFragment"
+        android:name="com.ugrcaan.muse.TaskPageFragment"
+        android:label="fragment_task_page"
+        tools:layout="@layout/fragment_task_page" />
+</navigation>
